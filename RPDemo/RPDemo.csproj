@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="DataLibrary">
+      <HintPath>Lib\DataLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
